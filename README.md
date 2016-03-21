@@ -45,8 +45,7 @@ Inferno depends on the following:
 * colorspace: Colorspace Manipulation
 
 _____________________________________________________
-Developed by Ashoka Polpitiya 
-E-mail: ashoka.pol @ gmail.com
+Developed by Ashoka Polpitiya (ashoka.pol @ gmail.com)
 _____________________________________________________
 
 License Agreement
