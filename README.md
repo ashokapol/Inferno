@@ -23,10 +23,10 @@ Dependencies:
 
 Inferno depends on the following: 
 1. MS Windows OS with .NET 2.0 framework 
-2. 2. R Statistical Environment (http://www.r-project.org/) 
-3. 3. statconnDCOM server (http://rcom.univie.ac.at)
+2. R Statistical Environment (http://www.r-project.org/) 
+3. statconnDCOM server (http://rcom.univie.ac.at)
 
-Inferno uses the following R packages (from http://cran.r-project.org/):
+**Inferno** uses the following R packages (from http://cran.r-project.org/):
 
 * amap: Another Multidimensional Analysis Package
 * car: Companion to Applied Regression
@@ -53,4 +53,4 @@ Inferno is licensed under the Apache License, Version 2.0; you may not use this 
 
 All publications that utilize this software should provide the citation below:
 
-Polpitiya AD, Qian WJ, Jaitly N, Petyuk VA, Adkins JN, Camp DG 2nd, Anderson GA, Smith RD., DAnTE: a statistical tool for quantitative analysis of -omics data. Bioinformatics. 2008 Jul 1;24(13):1556-8. (PMID: 18453552)
+**Polpitiya AD**, Qian WJ, Jaitly N, Petyuk VA, Adkins JN, Camp DG 2nd, Anderson GA, Smith RD., DAnTE: a statistical tool for quantitative analysis of -omics data. Bioinformatics. 2008 Jul 1;24(13):1556-8. (PMID: 18453552)
