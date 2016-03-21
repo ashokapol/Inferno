@@ -35,6 +35,27 @@
 
 <p>Source code for <strong>Inferno</strong> is hosted on Github here: <a href="https://github.com/ashokapol/inferno4proteomics">https://github.com/ashokapol/inferno4proteomics</a></p>
 
+<hr>
+
+<h3>
+<a id="installing-inferno" class="anchor" href="#installing-inferno" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Installing Inferno</h3>
+
+<p>Install the latest version of R (as of 03/21/2016 it is version 3.2.4 (Very Secure Dishes)). Then start R and type the following commands (cut/paste) at the R prompt:</p>
+
+<blockquote>
+<p><code>options(install.packages.check.source = "no")</code><br>
+<code>install.packages(c("rscproxy","rcom"),repos="http://rcom.univie.ac.at/download",lib=.Library,type="win.binary")</code><br>
+<code>library(rcom)</code><br>
+<code>comRegisterRegistry()</code><br>
+<code>installstatconnDCOM()</code></p>
+</blockquote>
+
+<p>This will install statconnDCOM and set the R environment for Inferno.</p>
+
+<p>Then download the Inferno executable and install it.</p>
+
+<hr>
+
 <p>Among many features of <strong>Inferno</strong> are:</p>
 
 <ul>
