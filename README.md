@@ -43,10 +43,12 @@ Inferno depends on the following:
 * plotrix: Various plotting functions
 * scatterplot3d: 3D Scatter Plot
 * colorspace: Colorspace Manipulation
+
 _____________________________________________________
 Developed by Ashoka Polpitiya 
 E-mail: ashoka.pol @ gmail.com
 _____________________________________________________
+
 License Agreement
 
 Inferno is licensed under the Apache License, Version 2.0; you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
