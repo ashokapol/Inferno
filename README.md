@@ -6,39 +6,43 @@ https://github.com/ashokapol/inferno4proteomics
 
 Among many features of **Inferno** are:
 
-A set of diagnostic plots (Histograms, boxplots, correlation plots, qq-plots, peptide-protein rollup plots, MA plots, PCA plots, etc).
-Log transforming.
-Rolling up to proteins (3 methods are available).
-LOESS normalization
-Linear Regression Normalization
-Mean Centering
-Median Absolute Deviation (MAD) Adjustment across datasets
-Quantile Normalization
-Principal Component Analysis
-Partial Least Squares Analysis
-ANOVA (multi-way, unbalanced, random effects)
-Heatmaps with Hierarchical and K-means cluster options
+* A set of diagnostic plots (Histograms, boxplots, correlation plots, qq-plots, peptide-protein rollup plots, MA plots, PCA plots, etc).
+* Log transforming.
+* Rolling up to proteins (3 methods are available).
+* LOESS normalization
+* Linear Regression Normalization
+* Mean Centering
+* Median Absolute Deviation (MAD) Adjustment across datasets
+* Quantile Normalization
+* Principal Component Analysis
+* Partial Least Squares Analysis
+* ANOVA (multi-way, unbalanced, random effects)
+* Heatmaps with Hierarchical and K-means cluster options
+
 Dependencies:
 
-Inferno depends on the following: 1. MS Windows OS with .NET 2.0 framework 2. R Statistical Environment (http://www.r-project.org/) 3. statconnDCOM server (http://rcom.univie.ac.at)
+Inferno depends on the following: 
+1. MS Windows OS with .NET 2.0 framework 
+2. 2. R Statistical Environment (http://www.r-project.org/) 
+3. 3. statconnDCOM server (http://rcom.univie.ac.at)
 
 Inferno uses the following R packages (from http://cran.r-project.org/):
 
-amap: Another Multidimensional Analysis Package
-car: Companion to Applied Regression
-nlme: Linear and Nonlinear Mixed Effects Models
-outliers: Tests for outliers
-fpc: Fixed point clusters, clusterwise regression and discriminant plots
-pls: Partial Least Squares Regression (PLSR) and Principal Component Regression (PCR)
-MASS: Main Package of Venables and Ripley's MASS
-impute: Imputation for microarray data
-qvalue: Q-value estimation for false discovery rate control
-e1071: Misc Functions of the Department of Statistics (e1071), TU Wien
-gplots: Various R programming tools for plotting data
-ellipse: Functions for drawing ellipses and ellipse-like confidence regions
-plotrix: Various plotting functions
-scatterplot3d: 3D Scatter Plot
-colorspace: Colorspace Manipulation
+* amap: Another Multidimensional Analysis Package
+* car: Companion to Applied Regression
+* nlme: Linear and Nonlinear Mixed Effects Models
+* outliers: Tests for outliers
+* fpc: Fixed point clusters, clusterwise regression and discriminant plots
+* pls: Partial Least Squares Regression (PLSR) and Principal Component Regression (PCR)
+* MASS: Main Package of Venables and Ripley's MASS
+* impute: Imputation for microarray data
+* qvalue: Q-value estimation for false discovery rate control
+* e1071: Misc Functions of the Department of Statistics (e1071), TU Wien
+* gplots: Various R programming tools for plotting data
+* ellipse: Functions for drawing ellipses and ellipse-like confidence regions
+* plotrix: Various plotting functions
+* scatterplot3d: 3D Scatter Plot
+* colorspace: Colorspace Manipulation
 ***
 Developed by Ashoka Polpitiya 
 E-mail: ashoka.pol @ gmail.com
