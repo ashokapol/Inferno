@@ -1,5 +1,6 @@
 # Inferno
 Inferno for Proteomics - Windows Install
+Website: http://ashokapol.github.io/Inferno/
 
 This is the executable for Inferno. If you want the source code, please go to the following Github repository:
 https://github.com/ashokapol/inferno4proteomics
