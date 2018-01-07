@@ -1,5 +1,5 @@
 # Inferno
-Inferno for Proteomics - Windows Install
+Inferno for biological data mining - Windows Install
 
 Website: http://ashokapol.github.io/Inferno/
 
