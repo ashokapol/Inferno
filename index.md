@@ -1,8 +1,8 @@
 ![Inferno Screenshot](https://raw.githubusercontent.com/ashokapol/Inferno4Proteomics/master/Inferno_1.1.png)
 
-Tags: Inferno, DAnTE, Proteomics, Software, Statistics, Analysis, Analytics, Proteins, Peptides, Microarray, Tool
+Tags: Inferno, DAnTE, Genomics, Proteomics, Software, Statistics, Analysis, Analytics, Proteins, Peptides, Microarray, Tool
 
-**Inferno** (formally known as DAnTE: Data Analysis Tool Extension) can perform various downstream analyses on large scale datasets from proteomics and microarrays.
+**Inferno** (formally known as DAnTE: Data Analysis Tool Extension) can perform various downstream analyses on large scale datasets from proteomics and genomics experiments.
 
 Source code for **Inferno** is hosted on Github here: https://github.com/ashokapol/inferno4proteomics
 ***
